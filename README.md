@@ -124,3 +124,7 @@ namespace TugasPert7
     }
 }
 ```
+
+Hasilnya :
+
+<img width="867" alt="oop4" src="https://github.com/riskahidayahputri/Tugas_OOP4/assets/115815582/efba40d4-74b9-43e9-8dc8-3890fb8d432d">
