@@ -11,7 +11,9 @@ Mata Kuliah : Pemrograman Orientasi Objek
 Tugas Inheritance : latihan class Mahasiswa dengan setter dan getter.
 
 
+
 Codingannya :
+
 
 ```
 using System;
